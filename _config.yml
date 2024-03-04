@@ -104,10 +104,10 @@ page-mathjax: false
 #   ]
 friends:
   [
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
+    # { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+    # { title: "Kun Qian", href: "http://kunq.me" },
+    # { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+    # { title: "SmdCn", href: "http://blog.smdcn.net" },
+    # { title: "JiyinYiyong", href: "http://tiye.me/" },
+    # { title: "DHong Say", href: "http://dhong.co" },
   ]
