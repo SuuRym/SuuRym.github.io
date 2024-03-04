@@ -1,8 +1,8 @@
 # Site settings
-title: SyyRym Blog
-SEOTitle: SyyRym | HTech Blog
+title: Tech Blog
+SEOTitle: SyyRym | Tech Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: surim404@naver.com
 description: "What I learned and my AHA moments"
 # keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 keyword: "SyyRym, SyyRym Blog, Web, JavaScript, React"
@@ -70,14 +70,14 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 # sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
 sidebar-about-description: "나중에 꾸밀게"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
